@@ -1,0 +1,36 @@
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+hr{
+    border-top: 3px solid #000;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+.mid-col{
+    text-align: center;
+    margin: auto;
+    width: 33%;
+}
+
+.mid-btn{
+    text-align: center;
+    margin: auto;
+}
+
+label{
+    margin-right: 10px;
+}
+
+.verticle-20{
+    margin-top: 20px;
+}
+
+.btn-margin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
