@@ -1,8 +1,8 @@
 <?php
-     $servername = "s465z7sj4pwhp7fn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-     $username = "o1j2kuvlr36u1qbj";
-     $password = "vijrdis04xp94xje";
-     $dbname = "uzkpv5dhzbyyet3p";
+     $servername = "wb39lt71kvkgdmw0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+     $username = "db3uuz111yrirx8p";
+     $password = "wmp8xj9kuuwm1hr3";
+     $dbname = "loft3z7lofvrolsr";
 
 
     $conn = new mysqli($servername, $username, $password, $dbname);
